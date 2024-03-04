@@ -1,0 +1,307 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11) (preloaded format=pdflatex 2022.11.30)  6 JAN 2023 23:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Documentatie.tex
+(Documentatie.tex
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02>
+(/home/octavian/.miktex/texmfs/install/tex/latex/llncs/llncs.cls
+Document Class: llncs 2022/09/05 v2.22 
+ LaTeX document class for Lecture Notes in Computer Science
+(/home/octavian/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/home/octavian/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen140
+)
+(/home/octavian/.miktex/texmfs/install/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count193
+\mult@box=\box51
+\multicol@leftmargin=\dimen141
+\c@unbalance=\count194
+\c@collectmore=\count195
+\doublecol@number=\count196
+\multicoltolerance=\count197
+\multicolpretolerance=\count198
+\full@width=\dimen142
+\page@free=\dimen143
+\premulticols=\dimen144
+\postmulticols=\dimen145
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box52
+\last@line=\box53
+\maxbalancingoverflow=\dimen146
+\mult@rightbox=\box54
+\mult@grightbox=\box55
+\mult@firstbox=\box56
+\mult@gfirstbox=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count199
+\c@columnbadness=\count266
+\c@finalcolumnbadness=\count267
+\last@try=\dimen147
+\multicolovershoot=\dimen148
+\multicolundershoot=\dimen149
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count268
+)
+(/home/octavian/.miktex/texmfs/install/tex/latex/oberdiek/aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+\c@chapter=\count269
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+LaTeX Info: Redefining \vec on input line 377.
+\tocchpnum=\dimen150
+\tocsecnum=\dimen151
+\tocsectotal=\dimen152
+\tocsubsecnum=\dimen153
+\tocsubsectotal=\dimen154
+\tocsubsubsecnum=\dimen155
+\tocsubsubsectotal=\dimen156
+\tocparanum=\dimen157
+\tocparatotal=\dimen158
+\tocsubparanum=\dimen159
+\@tempcntc=\count270
+\fnindent=\dimen160
+\c@@inst=\count271
+\c@@auth=\count272
+\c@auco=\count273
+\instindent=\dimen161
+\authrun=\box96
+\authorrunning=\toks16
+\tocauthor=\toks17
+\titrun=\box97
+\titlerunning=\toks18
+\toctitle=\toks19
+\c@theorem=\count274
+\c@case=\count275
+\c@conjecture=\count276
+\c@corollary=\count277
+\c@definition=\count278
+\c@example=\count279
+\c@exercise=\count280
+\c@lemma=\count281
+\c@note=\count282
+\c@problem=\count283
+\c@property=\count284
+\c@proposition=\count285
+\c@question=\count286
+\c@solution=\count287
+\c@remark=\count288
+\headlineindent=\dimen162
+)
+(/home/octavian/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/octavian/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/home/octavian/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/octavian/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/home/octavian/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/home/octavian/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+)
+(/home/octavian/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box98
+) (Documentatie.aux)
+\openout1 = `Documentatie.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+(/home/octavian/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen165
+\scratchbox=\box99
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen166
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks22
+)
+(/home/octavian/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+(/home/octavian/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+
+Overfull \hbox (18.50615pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/m/n/9 Acest raport a fost creat cu scopul de a prezenta cum function
+eaza
+ []
+
+<./images//enunt.png, id=1, 1009.7725pt x 419.5675pt>
+File: ./images//enunt.png Graphic file (type png)
+<use ./images//enunt.png>
+Package pdftex.def Info: ./images//enunt.png  used on input line 21.
+(pdftex.def)             Requested size: 347.12354pt x 144.23236pt.
+[1
+
+{/home/octavian/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map} <./images//enu
+nt.png>]
+Overfull \hbox (6.4326pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 comunicatii orietate-conexiune si prin mesaje, ceea ce ofera ga
+rantia unei conexiuni
+ []
+
+[2]
+Overfull \hbox (1.15472pt too wide) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/10 Instiintarea server-ului in legatura cu aplicatia in care dor
+este sa se autentifice
+ []
+
+
+Overfull \hbox (5.5981pt too wide) in paragraph at lines 46--47
+[]\OT1/cmr/m/n/10 Cererea clientului a unui cod 2FA generat de server pentru ap
+licatia respectiva,
+ []
+
+
+Overfull \hbox (13.01604pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 aplicatia este restrictionata, nefiind permisa orice comanda. A
+stfel, singura comanda
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Overfull \hbox (13.12602pt too wide) in paragraph at lines 60--61
+  \OT1/cmr/m/n/10 Pentru o viziune mai clara a structurii aplicatiei 'My2FA' am
+ pregatit urmatoarea
+ []
+
+<./images//diagrama.png, id=18, 757.83125pt x 1136.245pt>
+File: ./images//diagrama.png Graphic file (type png)
+<use ./images//diagrama.png>
+Package pdftex.def Info: ./images//diagrama.png  used on input line 63.
+(pdftex.def)             Requested size: 315.0pt x 472.29575pt.
+[3] [4 <./images//diagrama.png (PNG copy)>] [5]
+Overfull \hbox (20.37326pt too wide) in paragraph at lines 183--183
+[]        \OT1/cmtt/m/n/10 strcpy(msg, "[If you don't know your 2FA code type '
+Get code'][] 
+ []
+
+[6] [7] [8] (Documentatie.aux) ) 
+Here is how much of TeX's memory you used:
+ 1796 strings out of 477219
+ 29027 string characters out of 2825609
+ 383842 words of memory out of 3000000
+ 23061 multiletter control sequences out of 15000+600000
+ 472056 words of font info for 38 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 55i,6n,62p,762b,300s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ </home/octavian/.miktex/texmfs/data/fonts/pk/l
+jfour/jknappen/ec/dpi600/tcrm0900.pk></home/octavian/.miktex/texmfs/install/fon
+ts/type1/public/amsfonts/cm/cmbx10.pfb></home/octavian/.miktex/texmfs/install/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb></home/octavian/.miktex/texmfs/install
+/fonts/type1/public/amsfonts/cm/cmbx9.pfb></home/octavian/.miktex/texmfs/instal
+l/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/octavian/.miktex/texmfs/insta
+ll/fonts/type1/public/amsfonts/cm/cmr9.pfb></home/octavian/.miktex/texmfs/insta
+ll/fonts/type1/public/amsfonts/cm/cmtt10.pfb></home/octavian/.miktex/texmfs/ins
+tall/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on Documentatie.pdf (8 pages, 307843 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
